@@ -7,8 +7,6 @@ Prerequisites
 - [x] API Fetching asynchronously
 - [x] Props
 
----
-
 ## How to run ?
 - Clone Repo
 - Go to this url [link](https://www.omdbapi.com/apikey.aspx) and create your own api
