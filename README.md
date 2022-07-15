@@ -15,3 +15,7 @@ Prerequisites
 - Add you api key in src/App.js
 - ```npm install```
 - ```npm start```
+
+---
+
+Give it a 🌟 and Follow me [Yuvraj Parashar](https://github.com/yvrjprshr)
